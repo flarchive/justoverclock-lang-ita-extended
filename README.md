@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of justoverclock/lang-ita-extended.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/lang-ita-extended) or the [upstream repository](https://github.com/justoverclockl/flarum-italian-ext).
 
-**0** versions archived · Latest: [`2.0.3`](https://github.com/flarchive/justoverclock-lang-ita-extended/tree/archive/v2.0.3) · License: `MIT` · Flarum: `^1.0.0`
+**23** versions archived · Latest: [`2.0.3`](https://github.com/flarchive/justoverclock-lang-ita-extended/tree/archive/v2.0.3) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0` | 2021-03-17 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-lang-ita-extended/tree/archive/v1.0) |
+| `1.0.1` | 2021-03-17 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-lang-ita-extended/tree/archive/v1.0.1) |
+| `1.0.2` | 2021-03-18 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-lang-ita-extended/tree/archive/v1.0.2) |
+| `1.0.3` | 2021-03-19 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-lang-ita-extended/tree/archive/v1.0.3) |
+| `1.0.4` | 2021-03-19 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-lang-ita-extended/tree/archive/v1.0.4) |
+| `1.0.5` | 2021-03-20 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-lang-ita-extended/tree/archive/v1.0.5) |
+| `1.0.6` | 2021-03-22 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-lang-ita-extended/tree/archive/v1.0.6) |
+| `1.0.7` | 2021-03-22 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-lang-ita-extended/tree/archive/v1.0.7) |
+| `1.0.8` | 2021-03-26 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-lang-ita-extended/tree/archive/v1.0.8) |
+| `1.0.9` | 2021-03-27 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-lang-ita-extended/tree/archive/v1.0.9) |
+
+[View all 23 versions](https://github.com/flarchive/justoverclock-lang-ita-extended/tags)
 
 Catalog entry: [packages/justoverclock-lang-ita-extended.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-lang-ita-extended.json)
 
